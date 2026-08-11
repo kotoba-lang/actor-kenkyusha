@@ -1,0 +1,10 @@
+{:repo/id "kotoba-lang/actor-kenkyusha"
+ :repo/plane :role
+ :repo/role :governed-executable-actor
+ :repo/execution :on-demand
+ :actor/id :kenkyusha
+ :actor/identity "did:web:etzhayyim.com:actor:kenkyusha"
+ :repo/boundary {:subject :research-frontier-knowledge
+                 :knowledge-source "kotoba-lang/actor-bunken"
+                 :does-not-own [:etzhayyim-charter :etzhayyim-council :organism-state]
+                 :compatibility-repository "etzhayyim/com-etzhayyim-kenkyusha"}}

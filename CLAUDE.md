@@ -1,4 +1,7 @@
-# etzhayyim-project-kenkyusha
+# actor-kenkyusha
+
+Canonical repository: `kotoba-lang/actor-kenkyusha`. The historical etzhayyim
+DID, namespace, and GitHub URL remain compatibility identities.
 
 **kenkyusha.etzhayyim.com** — AI 研究者 Actor。既存学術分野の DID knowledge graph から未解明 research frontier を特定し、仮説生成・検証・論文走査を自律実行する。
 
