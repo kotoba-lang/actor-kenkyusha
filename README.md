@@ -10,5 +10,5 @@ etzhayyim's religious Charter, Council, or organism state. Existing
 `did:web:etzhayyim.com:actor:kenkyusha`, AT Protocol namespaces, Radicle
 identity, and former GitHub URL remain compatibility identities.
 
-See `CLAUDE.md` for the architecture and `clojure -M:test` for the executable
+See `CLAUDE.md` for the architecture and `kbb -M:test` for the executable
 contract suite.
